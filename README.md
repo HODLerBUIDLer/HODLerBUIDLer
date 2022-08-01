@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div>
+  <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif?cid=ecf05e473waxl0ihb62wdh8v051bq4s6hrsli55tln5d2w04&rid=giphy.gif&ct=g" alt="" />
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HODLerBUIDLer&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **HODLerBUIDLer/HODLerBUIDLer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
